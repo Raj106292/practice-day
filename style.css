@@ -1,0 +1,52 @@
+body {
+    font-family: 'Pacifico', cursive;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 5px 5px 10px orangered;
+}
+
+h1 span {
+    color: orangered;
+    text-shadow: 5px 5px 10px black;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.button {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px 30px;
+    background-image: radial-gradient(tomato, orangered);
+    border-radius: 20px;
+}
+
+.bgi_f {
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.about {
+    width: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.about img {
+    width: 50%;
+    padding-left: 15px;
+}
+
+.bgi_s {
+    margin-top: 40px;
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
